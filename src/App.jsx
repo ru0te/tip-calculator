@@ -11,6 +11,7 @@ function App() {
   function handleReset() {
     setBill(0);
     setTip(0);
+    setSelectedTip(0);
   }
 
   return (
